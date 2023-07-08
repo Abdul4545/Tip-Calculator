@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 550px;
+    height: 500px;
+    /* background-color: black; */
+    margin: auto;
+    margin-top: 45px;
+    
+}
+
+.main{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-top: 120px;
+    text-align: center;
+}
+
+
+#amount{
+    margin-top: 23px;
+    margin-left: -5px;
+    width: 270px ;
+    margin-bottom: 14px;
+}
+
+.height1{
+    height: 39px;
+    margin-bottom: 55px;
+}
+
+.height{
+    height: 34px;
+}
+
+#tipPercent{
+    width: 210px;
+    height: 10px;
+}
+
+#percentbox{
+    margin-left: -7px;
+    width: 50px;
+    height: 39px;
+    border-color: grey;  
+    border: 1px solid black;  
+    border-left: none;
+     border-radius: 3px;
+}
+
+#tipAmount {
+    margin-bottom: 14px;
+    width: 210px;
+    margin-left: -5px;
+}
+
+#totalAmount{
+    width: 177px;
+    margin-left: -5px;
+}
